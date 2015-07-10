@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <label>Moment.js</label>
+    <name>moment</name>
+    <type>framework</type>
+    <version>2.10.3</version>
+    <namespace>/frameworks/moment</namespace>
+    <description />
+    <license>MIT</license>
+  </bundle>
+</adapt_framework>
