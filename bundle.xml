@@ -5,8 +5,14 @@
     <name>moment</name>
     <type>framework</type>
     <version>2.10.3</version>
-    <namespace>/frameworks/moment</namespace>
+    <namespace>\moment</namespace>
     <description />
     <license>MIT</license>
+    <depends_on>
+      <bundle>
+        <name>adapt</name>
+        <version>1.0</version>
+      </bundle>
+    </depends_on>
   </bundle>
 </adapt_framework>
