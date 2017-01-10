@@ -3,9 +3,11 @@
   <bundle>
     <label>Moment.js</label>
     <name>moment</name>
-    <type>framework</type>
+    <type>js_framework</type>
     <version>2.10.3</version>
     <namespace>\moment</namespace>
+    <version_status>release</version_status>
+    <availability>public</availability>
     <description />
     <license>MIT</license>
     <depends_on>
