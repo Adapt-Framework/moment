@@ -4,7 +4,7 @@
     <label>Moment.js</label>
     <name>moment</name>
     <type>js_framework</type>
-    <version>2.10.3</version>
+    <version>1.0.0</version>
     <namespace>\moment</namespace>
     <version_status>release</version_status>
     <availability>public</availability>
